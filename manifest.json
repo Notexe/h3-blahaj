@@ -1,9 +1,10 @@
 {
 	"$schema": "https://raw.githubusercontent.com/atampy25/simple-mod-framework/main/Mod%20Manager/src/lib/manifest-schema.json",
-	"version": "0.1.0",
+	"version": "0.2.0",
 	"id": "Notex.Blahaj",
 	"name": "Blåhaj",
 	"description": "A truly amazing mod",
 	"authors": ["Notex"],
-	"frameworkVersion": "2.25.1"
+	"frameworkVersion": "2.33.9",
+	"updateCheck": "https://github.com/Notexe/h3-blahaj/releases/latest/download/updates.json"
 }

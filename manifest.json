@@ -3,7 +3,47 @@
 	"version": "0.2.0",
 	"id": "Notex.Blahaj",
 	"name": "Blåhaj",
-	"description": "A truly amazing mod",
+	"description": "Big and safe to have by your side if you want to discover the world below the surface of the ocean. The blue shark can swim very far, dive really deep and hear noises from almost 250 metres away.",
+	"contentFolders": ["content"],
+	"blobsFolders": ["blobs"],
+	"localisation": {
+		"english": {
+			"UI_PROP_PLUSH_BLAHAJ_NAME": "Blåhaj",
+			"UI_PROP_PLUSH_BLAHAJ_DESC": "Big and safe to have by your side if you want to discover the world below the surface of the ocean. The blue shark can swim very far, dive really deep and hear noises from almost 250 metres away."
+		},
+		"french": {
+			"UI_PROP_PLUSH_BLAHAJ_NAME": "BLÅHAJ",
+			"UI_PROP_PLUSH_BLAHAJ_DESC": "Un compagnon idéal pour aller explorer les profondeurs maritimes. Le requin bleu peut nager très loin, plonger très profond et entendre des bruits à près de 250 mètres de distance."
+		},
+		"italian": {
+			"UI_PROP_PLUSH_BLAHAJ_NAME": "BLÅHAJ",
+			"UI_PROP_PLUSH_BLAHAJ_DESC": "Il compagno perfetto per scoprire il mondo sottomarino. Accanto a lui, non hai nulla da temere. Lo squalo azzurro è un abile nuotatore, capace di scendere a grandi profondità e di udire i suoni da quasi 250 metri di distanza."
+		},
+		"german": {
+			"UI_PROP_PLUSH_BLAHAJ_NAME": "BLÅHAJ",
+			"UI_PROP_PLUSH_BLAHAJ_DESC": "Groß und sicher an deiner Seite, wenn du spannende Unterwasserwelten entdecken willst. Der Blauhai kann nämlich sehr lange schwimmen, richtig tief tauchen und Geräusche aus fast 250 Metern Entfernung hören."
+		},
+		"spanish": {
+			"UI_PROP_PLUSH_BLAHAJ_NAME": "BLÅHAJ",
+			"UI_PROP_PLUSH_BLAHAJ_DESC": "Un gran compañero de viaje que te aporta seguridad cuando quieras descubrir el mundo submarino. El tiburón azul puede nadar grandes distancias, sumergirse a gran profundidad y oír sonidos a 250 metros de distancia."
+		},
+		"russian": {
+			"UI_PROP_PLUSH_BLAHAJ_NAME": "Блохэй",
+			"UI_PROP_PLUSH_BLAHAJ_DESC": "Большая и совсем неопасная — незаменимый компаньон для тех, кто решит исследовать подводный мир. Синяя акула может проплывать большие дистанции, очень глубоко нырять и слышать звуки на расстоянии до 250 метров."
+		},
+		"chineseSimplified": {
+			"UI_PROP_PLUSH_BLAHAJ_NAME": "BLÅHAJ 布罗艾",
+			"UI_PROP_PLUSH_BLAHAJ_DESC": "这只蓝色的大鲨鱼很安全，如果你想探索海洋世界，有它陪伴会很好。鲨鱼可以游得很远，潜得很深，还能听到差不多250米外的声音"
+		},
+		"chineseTraditional": {
+			"UI_PROP_PLUSH_BLAHAJ_NAME": "BLÅHAJ",
+			"UI_PROP_PLUSH_BLAHAJ_DESC": "鯊魚天生就是游泳和深潛的高手，至於這個鯊魚毛公仔的潛能則有待發掘；不過只要加以鼓勵，它或能勇敢下水-放入機洗"
+		},
+		"japanese": {
+			"UI_PROP_PLUSH_BLAHAJ_NAME": "BLÅHAJ ブローハイ",
+			"UI_PROP_PLUSH_BLAHAJ_DESC": "海の中の世界を楽しみたいときにおすすめな、近くにいても安全な大きなシャーク。ヨシキリザメはとても遠くまで泳ぎ、深く潜り、250メートル先の音も聞こえます"
+		}
+	},
 	"authors": ["Notex"],
 	"frameworkVersion": "2.33.9",
 	"updateCheck": "https://github.com/Notexe/h3-blahaj/releases/latest/download/updates.json"

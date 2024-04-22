@@ -1,0 +1,22 @@
+{
+	"PROP_PLUSH_BLAHAJ": {
+		"Guid": "1fa08316-18ed-4332-ac87-9f50ad46e4c8",
+		"Type": "gear",
+		"Subtype": "melee",
+		"ImageId": "",
+		"RMTPrice": 149,
+		"GamePrice": 149,
+		"IsPurchasable": false,
+		"IsPublished": true,
+		"IsDroppable": false,
+		"Capabilities": [],
+		"Qualities": {},
+		"Properties": {
+			"Quality": 4,
+			"LoadoutSlot": "gear",
+			"Rarity": "common",
+			"RepositoryId": "8201def8-efeb-4152-81b3-7327c78d2e13"
+		},
+		"Rarity": "common"
+	}
+}

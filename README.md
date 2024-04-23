@@ -6,4 +6,4 @@ Big and safe to have by your side if you want to discover the world below the su
 
 ---
 
-`Notex.Blahaj` v1.0.0, by Notex. This README was automatically generated from the mod's manifest.
+`Notex.Blahaj` v1.0.1, by Notex. This README was automatically generated from the mod's manifest.

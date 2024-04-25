@@ -39,7 +39,7 @@
 							{
 								"Name": "mapTexture2D_01",
 								"Enabled": 1,
-								"Texture Id": "",
+								"Texture Id": "[assembly:/_pro/environment/textures/constants/color_black.texture?/diffuse_a.tex](ascolormap).pc_tex",
 								"Tiling U": "",
 								"Tiling V": "",
 								"Type": "AsColorMap"
